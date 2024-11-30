@@ -75,11 +75,17 @@ Delete YouTube Link: DELETE /api/YouTubeLinksAPI/Delete/{id} - Deletes a specifi
 
 
 Contributors
+
 Mohammed Alhamadani
+
 Jupet Jagonos
 
 
 Technologies Used
+
+
 ASP.NET Core MVC
+
 Entity Framework Core
+
 Microsoft SQL Server
